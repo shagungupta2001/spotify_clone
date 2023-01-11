@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Spotify Clone 2/covers"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "d"
+    }
+}
